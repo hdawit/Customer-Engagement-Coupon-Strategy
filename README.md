@@ -50,4 +50,3 @@ Next Steps and Recommendations
 Conclusion
 
 This project provides valuable insights into the acceptance patterns of coffee house coupons, with a particular focus on the relationship between weather and time of day, drivers category, bar goers, gender, and age groups. By understanding these dynamics and tailoring marketing strategies accordingly, businesses can optimize coupon acceptance rates and enhance customer engagement.
-![image](https://github.com/hdawit/Customer-Engagement-Coupon-Strategy/assets/43795941/54bcba21-a782-4e9d-9c4d-434295405f63)
