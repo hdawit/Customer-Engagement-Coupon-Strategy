@@ -5,7 +5,7 @@ This project aims to analyze the acceptance patterns of different coupon groups 
 The analysis includes descriptive statistics, visualizations, and insights derived from the dataset. The findings provide actionable recommendations for businesses to optimize their coupon marketing strategies and improve customer engagement.
 
 Notebook Link
-The Jupyter Notebook containing the detailed analysis, visualizations, and observations can be accessed here.
+The Jupyter Notebook containing detailed analysis, visualizations, and observations can be accessed here.
 
 Key Findings
 
@@ -49,4 +49,4 @@ Next Steps and Recommendations
 
 Conclusion
 
-This project provides valuable insights into the acceptance patterns of coffee house coupons, with a particular focus on the relationship between weather and time of day, drivers category, bar goers, gender, and age groups. By understanding these dynamics and tailoring marketing strategies accordingly, businesses can optimize coupon acceptance rates and enhance customer engagement.
+This project provides valuable insights into the acceptance patterns of coffee house coupons, with a particular focus on the relationship between weather and time of day, drivers category, bargoers, gender, and age groups. By understanding these dynamics and tailoring marketing strategies accordingly, businesses can optimize coupon acceptance rates and enhance customer engagement.
