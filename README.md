@@ -1,4 +1,4 @@
-# Project Summary
+## Project Summary
 
 This project aims to analyze the acceptance patterns of different coupon groups and determine the characteristics of passengers who are more likely to accept coupons. The analysis focuses on a specific coupon group, the coffee house coupons, and explores the differences between those who accepted and rejected these coupons.
 
