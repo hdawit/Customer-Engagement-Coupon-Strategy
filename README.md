@@ -15,6 +15,7 @@ The weather and time of day have an impact on coupon acceptance. Customers are m
 Analysis: Further exploration of the dataset reveals the following insights:
 	• Sunny weather and moderate temperatures (e.g., 55F) during the day have higher coupon acceptance rates.
 	• Rainy or snowy weather conditions may have a slight negative effect on coupon acceptance.
+ 
 	<img width="718" alt="Screenshot 2023-06-25 at 6 59 08 PM" src="https://github.com/hdawit/Customer-Engagement-Coupon-Strategy/assets/43795941/c75cb8d8-eaa6-40a5-bbb4-a78c43768e1f">
 
 2. Drivers Category: Acceptance Patterns
